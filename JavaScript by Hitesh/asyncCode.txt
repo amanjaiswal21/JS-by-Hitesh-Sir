@@ -1,0 +1,11 @@
+javascript--
+          1)synchronous
+          2)single-thread
+
+Execution Context(javascript engine)
+          1)call stack
+          2)memory heap
+
+async code me event call stack se register call back me jata hai phir vaha se task queue me phir jo bhi time rehta use baad time queue se call stack me daal diya jata hai...
+
+fetch api-task queue ko thoda expand kiya ya dosari task queue laga di gye jo high proirity ji hai  fetch-->promises(high proirity queue)->call stack

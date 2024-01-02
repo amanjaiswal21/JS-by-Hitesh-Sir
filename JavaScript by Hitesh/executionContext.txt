@@ -1,0 +1,12 @@
+Javascript execution context
+
+1-Global exeecution context
+2-function EC
+3-Eval EC
+
+++++++++++++++++++++++++++++++
+code -->memory creation phase
+     -->Execution phase
+
+     1-Global execution-->this
+     2-Memory phase 
